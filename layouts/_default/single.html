@@ -7,10 +7,11 @@
 <div class="post">
   <h1>{{ .Title }}</h1>
   <span class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-      {{ .Content }}
+    {{ .Content }}
+
+    {{ partial "share.html" . }}
 
     {{ template "_internal/disqus.html" . }}
-
     {{ partial "disqus.html" . }}
 </div>
 </div>
