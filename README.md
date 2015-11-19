@@ -2,8 +2,6 @@
 
 Source file of blog.ymizushi.info.
 
-
-
 ### TODO
 
 - はてなブックマークできる
