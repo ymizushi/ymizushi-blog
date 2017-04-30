@@ -2,6 +2,11 @@
 
 Source file of blog.ymizushi.info.
 
+# Setup
+```
+brew update && brew install hugo
+```
+
 ### TODO
 
 - はてなブックマークできる
