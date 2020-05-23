@@ -1,5 +1,5 @@
-baseurl = "http://blog.ymizushi.info"
+baseurl = "http://ymizushi.github.io/blog"
 languageCode = "utf-8"
-title = "ymizushi's Thoughts and Writings"
+title = "ymizushiの技術メモ"
 theme = "hyde"
 disqusShortname = "ymizushi"
