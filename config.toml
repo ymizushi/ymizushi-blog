@@ -1,4 +1,4 @@
-baseurl = "http://ymizushi.github.io/blog"
+baseurl = "http://ymizushi.github.io/tech-memo"
 languageCode = "utf-8"
 title = "ymizushiの技術メモ"
 theme = "hyde"
