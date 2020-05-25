@@ -1,5 +1,6 @@
 git add .
 git commit -m "update content"
+git push origin master
 hugo
 rsync -a public/ ../ymizushi.github.io/tech-memo/
 cd ../ymizushi.github.io/tech-memo
